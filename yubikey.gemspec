@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.name = "yubikey"
-  s.version = "1.4.1"
+  s.version = "1.4.2"
   s.description = "A library to verify, decode, decrypt and parse Yubikey one-time passwords."
   s.summary = "Yubikey library for Ruby"
 
-  s.authors = ["Jonathan Rudenberg"]
-  s.email = "jon335@gmail.com"
-  s.date = "2013-03-19"
+  s.authors = ["Jonathan Rudenberg", "David M. Zendzian"]
+  s.email = "davidzendzian@gmail.com"
+  s.date = "2020-09-24"
   s.homepage = "https://github.com/titanous/yubikey"
 
   s.extra_rdoc_files = [
