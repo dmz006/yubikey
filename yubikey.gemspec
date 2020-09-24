@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.summary = "Yubikey library for Ruby"
 
   s.authors = ["Jonathan Rudenberg", "David M. Zendzian"]
-  s.email = "davidzendzian@gmail.com"
+  s.email = "dmz@dmzs.com"
   s.date = "2020-09-24"
   s.homepage = "https://github.com/titanous/yubikey"
 
